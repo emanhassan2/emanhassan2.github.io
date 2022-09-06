@@ -1,0 +1,30 @@
+.greenHeadings{
+    background-color: #F0F0F0;
+    color: #A4A400;;
+   font-family: Lucida Sans Unicode,Helvetica,sans-serif;
+   text-align: left;
+   font-size: 18pt;
+   font-weight: normal;
+   text-decoration: underline;
+
+}
+#mainHeading{
+font-size: 22pt;
+font-weight: bold;
+text-align: center;
+text-decoration: underline;
+
+
+}
+
+body{
+color: #404040;
+background-color: white;
+font-size: 11pt;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.normal{
+    font-weight: normal;
+}
+
