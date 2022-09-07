@@ -13,9 +13,11 @@ font-size: 22pt;
 font-weight: bold;
 text-align: center;
 text-decoration: underline;
-
-
 }
+
+.completeWord:hover {
+    background-color: yellow;
+  }
 
 body{
 color: #404040;
@@ -28,3 +30,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: normal;
 }
 
+#yellowBackground{
+    background-color: #FFFFA8;
+
+}
