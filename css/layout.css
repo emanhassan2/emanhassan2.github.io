@@ -6,6 +6,7 @@ body{
 header{
     grid-area: header;
     background-color: rgb(148, 191, 218);
+    text-align: center;
 }
 .navbar{
     grid-area: navbar;
@@ -36,6 +37,7 @@ header{
 footer{
     grid-area: footer;
     background-color: darkslategray;
+    text-align: center;
 }
 
 .container{
