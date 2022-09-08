@@ -2,13 +2,13 @@ img {
     width: 150px;
     border-radius: 75px;
   }
-  /* .topdiv {
+   .topdiv {
     background-color: #faebd7;
     height: 180px;
     width: 100%;
-  } */
+  } 
   #x {
-    background-color: #fad7eb;
+    background-color: #faebd7;
   }
   .bottomdiv {
     background-color: #faebd7;
