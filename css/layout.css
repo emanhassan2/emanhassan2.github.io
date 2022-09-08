@@ -6,7 +6,6 @@ body{
 header{
     grid-area: header;
     background-color: rgb(148, 191, 218);
-    text-align: center;
 }
 .navbar{
     grid-area: navbar;
@@ -37,7 +36,6 @@ header{
 footer{
     grid-area: footer;
     background-color: darkslategray;
-    text-align: center;
 }
 
 .container{
@@ -88,7 +86,7 @@ footer{
     flex: 1;
 }
 
-.header h3{
+header h3{
     text-align: center;
 }
 .navbar a{
@@ -99,7 +97,7 @@ footer{
     padding-left: 2%;
     padding-right: 2%;
 }
-.footer p{
+footer p{
     color: white;
     text-align: center;
 }
